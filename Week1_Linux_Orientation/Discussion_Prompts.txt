@@ -1,0 +1,8 @@
+Day 1 Discussion Prompt:
+Why do ethical hackers prefer Linux over Windows?
+
+Suggested Points:
+- Linux is open-source
+- More control over the OS
+- Built-in command line tools for security
+- Preferred in professional pen-testing environments
